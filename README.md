@@ -10,8 +10,9 @@ Harvard CS50’s Introduction to Programming with Python — CS50P 2022
 
 ### These are my solutions for CS50's Introduction to Programming with Python 2022.
 ### Final Project: [Student Information Management System](https://youtu.be/8PWYQKZ0h24)
-### [Final Project](/Final%20Project) - [Final Project Link](https://cs50.harvard.edu/python/2022/project/)
-- [Final Project](/Final%20Project/)
+### [Final Project Link](/Final%20Project/)
+
+
 [![Certificate](./static/CS50P-A4.png)](https://certificates.cs50.io/85399023-63be-4a8e-992a-0386027da4ca.png?size=A4)
 
 ### ⚠️ Disclaimer
