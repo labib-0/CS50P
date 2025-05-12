@@ -79,4 +79,4 @@ Submitting work that is not your own violates the course’s [Academic Honesty](
 - [CS50 Shirtificate](/Week%208/shirtificate/)
 
 ### [Final Project](/Final%20Project) - [Final Project Link](https://cs50.harvard.edu/python/2022/project/)
-- [Final Project](/Final%20Project/project/)
+- [Final Project](/Final%20Project/)
